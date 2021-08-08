@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is test for rebase file
 add one more line
+=======
+this is test for rebase
+>>>>>>> efdd0fa128f8a1af50c5e95e75d6eee463ab4dc7
