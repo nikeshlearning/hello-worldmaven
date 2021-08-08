@@ -1,0 +1,6 @@
+docker stop val_de
+docker rm -f val_de
+docker images rm -f nick_de
+cd /ot/dockers
+docker built -t nick_de
+docker run -d --name nick_container -p 8080:8090 nick_de
