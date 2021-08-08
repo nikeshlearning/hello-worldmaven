@@ -5,5 +5,4 @@
 <h1>it takes 48hrs to completed project-2<h1>
 <h1>welcome riyu<h1>
 <h1>Project2 also done with JENKINS>DOCKER>TOMCAT<h1>
-		<h2>git learnings for squash <h2>
 
