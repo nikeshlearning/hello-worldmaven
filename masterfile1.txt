@@ -1,4 +1,8 @@
 this is master file edited by branch3 user
 second commit
 third commit
-
+<<<<<<< HEAD
+fourth/4th commit
+=======
+fourth commit
+>>>>>>> 7d7479f... this is 4th commit
