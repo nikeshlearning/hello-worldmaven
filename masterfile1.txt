@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+this is master file edited by branch3 user
+second commit
+>>>>>>> 1498431... second ci for master file
